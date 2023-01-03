@@ -7,4 +7,17 @@
     <RootNamespace>La_Mia_Pizzeria_1</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\css\img\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\css\img\PizzaBufalina.jpg" />
+    <None Include="wwwroot\css\img\PizzaDiavola.jpg" />
+    <None Include="wwwroot\css\img\PizzaMargherita.jpg" />
+    <None Include="wwwroot\css\img\PizzaMarinara.jpg" />
+    <None Include="wwwroot\css\img\PizzaProsciuttoEFunghi.jpg" />
+    <None Include="wwwroot\css\img\PizzaStraciatellaESpeck.jpg" />
+  </ItemGroup>
+
 </Project>
